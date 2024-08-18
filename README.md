@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @eggnutt
-- 👀 I’m interested in coding and creating on Github!
-- 🌱 I’m currently learning to code or make simple projects!
-- 💞️ I’m looking to collaborate on scripts and projects!
+Hi!
